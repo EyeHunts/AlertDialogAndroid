@@ -1,3 +1,3 @@
 # AlertDialogAndroid
 Alert Dialog Android 
-https://tutorial.eyehunt.in/android/alert-dialog-android-example-kotlin/
+https://tutorial.eyehunts.com/android/alert-dialog-android-example-kotlin/
